@@ -2,4 +2,4 @@
 Test repository
 
 # my self
-@sameeraprabath
+hgsameeraprabath@gmail.com
